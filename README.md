@@ -1,9 +1,8 @@
 # Fusionfi-Demo-Test
 Projeye burdan bakabilirsiniz 
-```bash
+
 
 https://x.com/FusionFiPro/status/1866426465279193382
-``` 
 
 ## Testten önce nvm indirip kullanalım
 ```bash
